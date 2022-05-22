@@ -16,3 +16,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'coral.settings')
 application = get_wsgi_application()
 
 app = application
+# dkjflksdjf
